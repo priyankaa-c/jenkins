@@ -3,8 +3,8 @@
 *Install Jenkins
 
 *Install java (open JDK and JRE)
-sudo apt-get install openjdk-7-jre
-sudo apt-get install openjdk-7-jdk
+sudo apt-get install default-jre
+sudo apt-get install default-jdk
 java -version
 
 
