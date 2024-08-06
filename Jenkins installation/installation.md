@@ -16,9 +16,6 @@ sudo apt-get install default-jdk
 java -version
 ```
 
-
-
-
 ## Add jenkins apt-get Repository
 ### Download the security key for the Jenkins repository & add it to the keychain
 
@@ -40,5 +37,5 @@ sudo apt-get update
 # Install Jenkins (will also install its dependencies, eg OpenJDK)
 sudo apt-get install jenkins
 
-#On Firefox Web Browser
-localhost:8080(jenkins port 8080)
+### On Firefox Web Browser
+localhost:8080 (jenkins port 8080)
